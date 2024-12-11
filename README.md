@@ -12,23 +12,23 @@ BGEV_fit: Código em R da função que ajusta os modelos BGEV em séries tempora
 
 charma_fit: Código em R da função que ajusta os modelos BGEV em séries temporais. Programação desenvolvida pelos autores do artigo de referência sobre a distribuição Chen (Stone et al., 2023).
 
-01. Distribuição GEV: Código em R para gerar os gráficos com as curvas simuladas da distribuição GEV.
+01.0 Distribuição GEV: Código em R para gerar os gráficos com as curvas simuladas da distribuição GEV.
 
-02. Distribuição BGEV: Código em R para gerar os gráficos com as curvas simuladas da distribuição BGEV.
+02.0 Distribuição BGEV: Código em R para gerar os gráficos com as curvas simuladas da distribuição BGEV.
 
-03. Manaus - Aplicação 1 - Temperatura Mínima - Orvalho: Código em R para gerar os resultados da aplicação 1 com dados de Manaus.
+03.0 Manaus - Aplicação 1 - Temperatura Mínima - Orvalho: Código em R para gerar os resultados da aplicação 1 com dados de Manaus.
 
 03.1. Manaus - Aplicação 1 - Temperatura Mínima - Orvalho: Arquivo Excel com dados de Manaus para a aplicação 1.
 
-04. RS - Aplicação 2 - Temperatura do Ar - Máximo: Código em R para gerar os resultados da aplicação 2 com dados do Rio Grande do Sul.
+04.0 RS - Aplicação 2 - Temperatura do Ar - Máximo: Código em R para gerar os resultados da aplicação 2 com dados do Rio Grande do Sul.
 
 04.1. RS - Aplicação 2 - Temperatura do Ar - Máximo: Arquivo Excel com dados do Rio Grande do Sul para a aplicação 2.
 
-05. Manaus - BGEV - Temperatura do Ar - Máximo: Código em R para gerar os resultados do exemplo 2 com dados de Manaus.
+05.0 Manaus - BGEV - Temperatura do Ar - Máximo: Código em R para gerar os resultados do exemplo 2 com dados de Manaus.
 
 05.1. Manaus - Temperatura do Ar - Máximo: Arquivo Excel com dados de Manaus para o exemplo 2.
 
-06. Manaus - BGEV - Umidade Relativa do Ar - Mínimo: Código em R para gerar os resultados do exemplo 1 com dados de Manaus.
+06.0 Manaus - BGEV - Umidade Relativa do Ar - Mínimo: Código em R para gerar os resultados do exemplo 1 com dados de Manaus.
 
 06.1. Manaus - Umidade Relativa do Ar - Mínimo: Arquivo Excel com dados de Manaus para o exemplo 1.
 
